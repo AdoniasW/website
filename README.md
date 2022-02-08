@@ -6,3 +6,6 @@ adding some changes
 
 #### even more changes
 change as part of automatic merge
+
+## causing trouble
+having merge conflict
